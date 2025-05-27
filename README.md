@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Hein Pyae Sone Htet (KoVoidG)
 
-<!--
-**KoVoidG/KoVoidG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Siam University  
+💻 Passionate about AI, games, and interactive web apps  
+🚀 Currently building creative projects using Java, Python, and Glif.app
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Java / Python / HTML / CSS / JavaScript
+- LLM Prompt Engineering (Glif.app)
+- Game Development
+- Visual Workflows & AI Generation
+
+---
+
+## 📌 Featured Projects
+- 🎮 [Dragon Snake Game](https://github.com/KoVoidG/java-mushu-game)
+- 🔬 [Chemical Explorer AI](https://github.com/KoVoidG/chemical-explorer-glif)
+- 🧮 [Zodiac Age App](https://github.com/KoVoidG/zodiac-age-app)
+
+---
+
+## 📫 Contact Me
+- Email: heinpyaesonehtet1234@gmail.com (heinpyaesonehtet1234@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/hein-pyae-sone-htet-620654300/)
+
+
