@@ -25,7 +25,7 @@ Welcome to my digital lab — a space where ideas come to life through code, AI,
 ### 🎮 [Dragon Snake Game](https://github.com/KoVoidG/java-mushu-game)
 > Classic snake, reimagined with a dragon. Dynamic speed, custom canvas, and clean Java architecture.
 
-### 🔬 [Chemical Element Explorer](https://github.com/KoVoidG/chemical-explorer-glif)
+### 🔬 [Chemical Element Explorer](https://github.com/KoVoidG/glif-chemical-explorer)
 > Type an element. Pick a topic. Watch LLM-powered explanations and visuals come alive.
 
 ### 🔮 [Zodiac Age App](https://github.com/KoVoidG/zodiac-age-app)
