@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Contact Me
-- [Email]:(heinpyaesonehtet1234@gmail.com)
-- [LinkedIn]:(https://www.linkedin.com/in/hein-pyae-sone-htet-620654300/)
+- [Email](heinpyaesonehtet1234@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hein-pyae-sone-htet-620654300/)
 
 
