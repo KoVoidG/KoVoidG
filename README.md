@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hein Pyae Sone Htet (KoVoidG)
+# 👋 Hi, I'm Hein Pyae Sone Htet (Void)
 
-🎓 Computer Science student at Siam University  
+🎓 Computer and Data Science student at Siam University  
 💻 Passionate about AI, games, and interactive web apps  
 🚀 Currently building creative projects using Java, Python, and Glif.app
 
