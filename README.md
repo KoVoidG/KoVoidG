@@ -67,7 +67,7 @@ Languages: JavaScript, Java, Python
 Frontend: HTML, CSS, React, Next.js, Tailwind CSS  
 Backend: Node.js, Express, REST APIs, Supabase  
 Database: PostgreSQL (SQL)  
-Tools: Git, GitHub, Vercel, VS Code, Antigravity
+Tools: Git, GitHub, Vercel, VS Code, Antigravity  
 Other: TypeScript (learning), API integration  
 
 ---
