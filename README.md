@@ -1,56 +1,88 @@
-# 👋 Hello, I'm Hein Pyae Sone Htet (Void)
+# Hein Pyae Sone Htet (Void)
 
-Welcome to my digital lab — a space where ideas come to life through code, AI, and curiosity.
-
-
-
-##  Who Am I?
-
-- A passionate Computer Science student at **Siam University**  
-- A builder of interactive experiences — from Java games to AI mini-apps  
-- A dreamer, coder, and lifelong learner who loves transforming ideas into tools that work
-
-
-
-##  What I Do
-
-- 🔥 **Game Development** – Built a full-featured Java game where a dragon eats flames instead of apples.  
-- 🧬 **AI Experiments** – Created an LLM-powered chemical explorer on [Glif.app](https://glif.app).  
-- 📊 **Web & Data Projects** – Designed tools and visualizations that turn logic into insight.
-
-
-
-## Projects That Represent Me
-
-### 🎮 [Dragon Snake Game](https://github.com/KoVoidG/java-mushu-game)
-> Classic snake, reimagined with a dragon. Dynamic speed, custom canvas, and clean Java architecture.
-
-### 🔬 [Chemical Element Explorer](https://github.com/KoVoidG/glif-chemical-explorer)
-> Type an element. Pick a topic. Watch LLM-powered explanations and visuals come alive.
-
-### 🔮 [Zodiac Age App](https://github.com/KoVoidG/zodiac-age-app)
-> A fun interactive tool built with App Lab to find your zodiac and age using simple inputs.
-
-
-## 🔧 Skills
-- Java / Python / HTML / CSS / JavaScript
-- LLM Prompt Engineering (Glif.app)
-- Game Development
-- Visual Workflows & AI Generation
-
-
-## My Philosophy
-
-> “Build what you imagine. Share what you build.”
-
-Every project on this profile represents something I've learned, something I've loved, or something I wanted to prove to myself I could do.
-
-
-## 📫 Contact Me
-- [Email](heinpyaesonehtet1234@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hein-pyae-sone-htet-620654300/)
-- Portfolio : *Coming soon...*
+Computer & Data Science Student  
+Aspiring Full-Stack Developer focused on building AI-powered web applications and clean software systems
 
 ---
 
-***Thanks for stopping by - and welcome to my code world.***
+## About Me
+
+- Computer Science student at Siam University  
+- Interested in full-stack development and AI applications  
+- I enjoy turning ideas into working systems and improving them over time  
+
+---
+
+## What I’m Building
+
+- AI-powered web applications with real use cases  
+- Interactive systems (games, tools, small platforms)  
+- Projects that combine logic, data, and usability  
+
+---
+
+## 🚀 Featured Projects
+
+- ### Smart Study Assistant
+    AI-powered study platform with summarization, quizzes, and interactive learning tools  
+    Tech: TypeScript, Next.js, Supabase, API Integration  
+    Link: https://smart-study-assistant-taupe.vercel.app/
+
+---
+
+- ### Stock Portfolio Manager
+    Track investments, manage assets, and visualize portfolio performance  
+    Tech: Web Development, Data Handling, Java  
+    Link: https://kygfolio.onrender.com/
+
+---
+
+- ### Note Taking App
+    https://github.com/KoVoidG/note-taking-app
+  
+    Simple note management system with clean structure and user-focused design  
+    Tech: Java, Css
+
+---
+
+- ### Dragon Snake Game  
+    https://github.com/KoVoidG/java-mushu-game
+   
+    Classic snake game reimagined with a dragon, built with structured logic and clean architecture  
+    Tech: Java (OOP, GUI, Game Logic)
+
+---
+
+- ### Rock Paper Scissors  
+    https://github.com/KoVoidG/rock-paper-scissors
+  
+    Interactive game with clear logic and simple design  
+    Tech: Java  
+
+---
+
+## Technical Skills
+
+Languages: JavaScript, Java, Python  
+Frontend: HTML, CSS, React, Next.js, Tailwind CSS  
+Backend: Node.js, Express, REST APIs, Supabase  
+Database: PostgreSQL (SQL)  
+Tools: Git, GitHub, Vercel, VS Code, Antigravity
+Other: TypeScript (learning), API integration  
+
+---
+
+## Current Focus
+
+- Building and deploying full-stack applications  
+- Improving TypeScript and backend skills  
+- Developing practical AI features  
+
+---
+
+## 📫 Contact
+
+Email: heinpyaesonehtet1234@gmail.com  
+LinkedIn: https://www.linkedin.com/in/hein-pyae-sone-htet-620654300/  
+Portfolio: Coming soon  
+
