@@ -84,5 +84,5 @@ Other: TypeScript (learning), API integration
 
 Email: heinpyaesonehtet1234@gmail.com  
 LinkedIn: https://www.linkedin.com/in/hein-pyae-sone-htet-620654300/  
-Portfolio: Coming soon  
+Portfolio: https://kovoidg.github.io  
 
